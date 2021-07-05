@@ -2,7 +2,7 @@
 
 ### Requirements
 
-- spicetify 2.0+
+- Spicetify 2.0+
 - Spotify With Updated UI
 
 ### Installing 
